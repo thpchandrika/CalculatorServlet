@@ -1,6 +1,7 @@
 package servlets;
 
 public class Calculation {
+
     private double first;
     private double second;
     private String operation;
